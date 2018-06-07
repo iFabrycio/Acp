@@ -1,0 +1,14 @@
++ Lista de contas
++ Banir contas
++ Desbanir contas
++ Historico de banimentos
++ Historico de desbanimentos(rlx ai, n é necessário)
++ Hostnames
+- Segurança - IMPORTANTE
++ Banir/Desbanir apenas o IP
++ Patentes e informações sobre
++ p_id, p_date, p_cid, p_cnick, p_pid, p_pnick, p_a, p_pan, p_pa
+- Retirar ban acumulados
+- Editar informações da conta
+- log de afastamentos e desafastamentos
+
